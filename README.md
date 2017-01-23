@@ -1,0 +1,1 @@
+Takes json formatted data and logs to file based on configs.
